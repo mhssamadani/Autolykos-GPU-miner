@@ -1,3 +1,4 @@
+test
 # Autolykos CUDA-miner
 
 ## Prerequisites (Linux)
