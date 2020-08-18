@@ -1,5 +1,4 @@
-test
-# Autolykos CUDA-miner
+# Autolykos CUDA-miner compatible with [ergopool.io]{https://ergopool.io}
 
 ## Prerequisites (Linux)
 (For Ubuntu 16.04 or 18.04)
